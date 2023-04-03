@@ -1,5 +1,7 @@
 # AndroidQuoteApp
 
+![app icon](/QuoteAppImages/appcover.jpg)
+
 This repository contains a link to the "بليغ" daily quote Android application, which provides users with four quotes throughout the day at different times, including an Islamic prayer. The app can be customized to meet the user's preferences from the settings, and it features both day and night themes.
 
 Additionally, the app uses a simple algorithm to determine the next quote based on how many times the user has clicked the love button on previous quotes and how many times those quotes have appeared before.
